@@ -9,15 +9,15 @@ inputs:
   ip:
    description: 'The IP of the Minecraft server.'
    required: true
-   default: 'example.ip.org'
+   default: 'in1.msdhosting.tech'
   port:
    description: 'The port of the Minecraft server.'
    required: false
-   default: '25565'
+   default: '25628'
   name:
    description: 'The username of the bot displayed in the Minecraft server.'
    required: false
-   default: 'afkbot'
+   default: 'Nagato'
   auto-night-skip:
    description: "Make's the bot automatically skip the night in the Minecraft server."
    required: false
